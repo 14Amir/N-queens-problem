@@ -1,5 +1,6 @@
 # N-queens-problem
 Solving N queens problem with genetic algorithm
+
 First, we will give a brief explanation of the problem:
 The multi-minister problem is a chess and mathematical puzzle, according to which n chess ministers must be placed on an n×n chess board in such a way that none of them threaten the others. Considering that the minister moves horizontally, vertically and obliquely, each minister should be placed in a different length, width and diameter.
 Now we want to use genetic algorithm to solve this problem.
